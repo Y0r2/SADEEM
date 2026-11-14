@@ -27,11 +27,6 @@ With the help of **NAJM**, their robotic companion, players must explore the out
 
 *One mission. Three messages. A mystery waiting to be solved.*
 
-
-## 🎮 Gameplay Preview
-
-*Explore. Decide. Survive.*
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ef0901fb-c5b4-473b-99f8-6401d402dca8" width="100%" alt="SADEEM Gameplay GIF">
 </div>
