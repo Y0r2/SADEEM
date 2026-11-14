@@ -27,7 +27,7 @@ This document lists the NASA resources that inspired SADEEM's mechanics, how eac
 3. Fictional events and game-balance numbers must not be presented as NASA facts.
 
 ## Verification
-Live API integration is **not yet verified**. Update the Status column only after testing in the Roblox build (see [TESTING.md](../TESTING.md)).
+Update the Status column only after testing in the Roblox build (see [TESTING.md](../TESTING.md)).
 
 ## Asset licenses
 *(List third-party models, sounds, images and their licenses here before submission.)*
