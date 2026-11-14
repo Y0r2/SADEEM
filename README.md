@@ -1,3 +1,11 @@
+
+
+<p align="center">
+  <img src="SADEEM_Cover.png" alt="SADEEM | OUTPOST 72" width="100%">
+</p>
+
+
+
 # SADEEM | OUTPOST 72 — The Lost Message
 
 **NASA Space Apps Challenge 2026 — Build a Junior Astronaut Mission Trainer**
