@@ -40,7 +40,7 @@ Teach engineering trade-offs through consequences: power diverted to research ma
 - `SUBMISSION.md` — NASA Space Apps submission checklist.
 
 ## Data and attribution
-See [NASA data and sources](docs/NASA_DATA_AND_SOURCES.md) for links, proposed gameplay uses, and the current verification status. This is an independent educational project; **NASA does not endorse it**.
+See [NASA data and sources](NASA_DATA_AND_SOURCES.md) for links, proposed gameplay uses, and the current verification status. This is an independent educational project; **NASA does not endorse it**.
 
 ## Team
 SADEEM — NASA Space Apps Challenge 2026.
