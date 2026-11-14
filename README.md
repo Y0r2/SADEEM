@@ -1,9 +1,3 @@
-
-
-<p align="center">
-  <img src="SADEEM_Cover.png" alt="SADEEM | OUTPOST 72" width="100%">
-</p>
-
 # 🚀 SADEEM | OUTPOST 72
 ### The Lost Message — Explore. Decide. Survive.
 
@@ -12,6 +6,7 @@
 **Team SADEEM 🇸🇦 | Saudi Arabia**
 
 ![SADEEM Cover](SADEEM_Cover.png)
+  
 
 ---
 
