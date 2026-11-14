@@ -29,5 +29,3 @@ This document lists the NASA resources that inspired SADEEM's mechanics, how eac
 ## Verification
 Update the Status column only after testing in the Roblox build (see [TESTING.md](../TESTING.md)).
 
-## Asset licenses
-*(List third-party models, sounds, images and their licenses here before submission.)*
