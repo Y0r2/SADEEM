@@ -24,7 +24,7 @@ With the help of **NAJM**, their robotic companion, players must explore the out
 
 *One mission. Three messages. A mystery waiting to be solved.*
 
-![SADEEM Gameplay](assets/gameplay.gif)
+![SADEEM Gameplay](PASTE_GAMEPLAY_GIF_URL)
 
 > 🎥 Watch the crew explore Outpost 72, interact with NAJM, and discover the secrets hidden inside the station.
 
