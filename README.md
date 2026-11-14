@@ -4,51 +4,102 @@
   <img src="SADEEM_Cover.png" alt="SADEEM | OUTPOST 72" width="100%">
 </p>
 
+# 🚀 SADEEM | OUTPOST 72
+### The Lost Message — Explore. Decide. Survive.
 
+**NASA Space Apps Challenge 2026**  
+**Challenge: Build a Junior Astronaut Mission Trainer**  
+**Team SADEEM 🇸🇦 | Saudi Arabia**
 
-# SADEEM | OUTPOST 72 — The Lost Message
+![SADEEM Cover](SADEEM_Cover.png)
 
-**NASA Space Apps Challenge 2026 — Build a Junior Astronaut Mission Trainer**
+---
 
-[Play on Roblox](https://www.roblox.com/share?code=3885c530b095d745808a4fd2af8d81a3&type=ExperienceDetails&stamp=1794626377726)
+## 🌌 The Mission
 
-## Overview
-SADEEM is a story-driven, cooperative Roblox educational space-survival game. Players become a Saudi astronaut crew, explore a lunar or Martian outpost, investigate a lost message, and try to maintain life-support systems over 72 simulated hours. The story is fictional and set in 2045. Designed with the challenge's **ages 7–12** learning objectives in mind.
+**Year 2045. A mysterious signal. A forgotten space outpost.**
 
-## Story and gameplay
-1. **The Last Call:** Begin at the Saudi mission control center and receive the mission briefing.
-2. **Beyond Earth:** Choose a Moon or Mars destination and travel to the outpost.
-3. **Restore the Outpost:** Inspect the abandoned base and restore power, oxygen, and communications.
-4. **Lunar / Martian Expedition:** Explore the selected environment and collect scientific clues.
-5. **The Lost Message:** Recover three message fragments and solve the archive puzzle.
-6. **The Final 72 Hours:** Balance limited life support, power, shielding, and other mission resources while responding to hazards.
-7. **Destination Unlocked:** Explore the other destination to compare conditions.
-8. **Final Mission Report:** Review choices, consequences, and the mission outcome.
+A Saudi astronaut crew arrives at Outpost 72 to investigate a mysterious transmission. But the mission quickly becomes a race against time.
 
-**Note:** The above describes the intended game design from the planning document, not a claim that every feature is implemented in the uploaded Roblox build.
+With the help of **NAJM**, their robotic companion, players must explore the outpost, restore essential systems, uncover three hidden messages, and solve the final mystery.
 
-## Educational goal
-Teach engineering trade-offs through consequences: power diverted to research may reduce oxygen production; shielding or emergency repairs consume resources. The game should clearly distinguish NASA-sourced scientific facts from fictional story events and game-balance numbers.
+**Every decision matters. Every resource counts.**
 
-## Technology
-- Roblox Studio and Luau; Roblox assets and custom visual assets where permitted.
-- NASA public scientific resources are referenced in the design. 
+## 🎮 Gameplay Preview
 
-## How to run
-1. Install Roblox Studio and sign in.
-2. Open `game/SADEEM_The_Lost_Message.rbxl` via **File > Open from File**.
-3. Press **Play** to test locally.
-4. To publish, use **File > Publish to Roblox** and configure audience/access in Creator Dashboard.
+*One mission. Three messages. A mystery waiting to be solved.*
 
-## Repository structure
-- `game/` — editable Roblox Studio place file.
-- `docs/` — level-planning PDF and NASA data/source documentation.
-- `PRD.md` — product requirements and success criteria.
-- `TESTING.md` — verification checklist.
-- `SUBMISSION.md` — NASA Space Apps submission checklist.
+![SADEEM Gameplay](assets/gameplay.gif)
 
-## Data and attribution
-See [NASA data and sources](NASA_DATA_AND_SOURCES.md) for links, proposed gameplay uses, and the current verification status. This is an independent educational project; **NASA does not endorse it**.
+> 🎥 Watch the crew explore Outpost 72, interact with NAJM, and discover the secrets hidden inside the station.
 
-## Team
-SADEEM — NASA Space Apps Challenge 2026.
+## 🪐 Game Features
+
+- **Interactive Space Exploration** — Discover a futuristic outpost inspired by real space science.
+- **Mission-Based Gameplay** — Complete objectives and overcome challenges.
+- **Resource Management** — Balance oxygen, energy, and other survival resources.
+- **The Three-Message Mystery** — Collect clues and uncover the final message.
+- **NAJM, Your Robot Companion** — Navigate the mission with your robotic guide.
+- **Multiplayer Adventure** — Designed for cooperative play with up to four players.
+- **Bilingual Experience** — Arabic and English support.
+
+## 🌍 Why Roblox?
+
+Why teach space science only through textbooks when students can experience it through a world they already love?
+
+SADEEM transforms complex space engineering concepts into an interactive adventure where players learn by exploring, experimenting, and making decisions.
+
+**Our goal:** Make space education accessible, exciting, and unforgettable.
+
+## 🛰️ Powered by NASA Science
+
+SADEEM draws inspiration from NASA's publicly available educational and scientific resources, including:
+
+- Moon and Mars exploration
+- Life-support systems
+- Energy and resource management
+- Space habitats and environmental challenges
+- Mission planning and astronaut survival
+
+📚 **[Explore Our NASA Data and Sources](NASA_DATA_AND_SOURCES.md)**
+
+*SADEEM is an independent educational project and is not endorsed by NASA. The story is fictional, and gameplay resource values are designed for educational game balance.*
+
+## 👩‍🚀 Meet Team SADEEM
+
+| Team Member | Role |
+|---|---|
+| **Yara Hamami** | Game Developer & Team Lead |
+| **Hams Alhamandi** | Game Developer & QA Tester |
+| **Shatha Mukhrish** | Level Designer & Storyteller |
+| **Relam Alhazmi** | NASA Data & Research |
+| **Lamees Hummadi** | UI/UX Designer & Video Editor |
+
+## 🛠️ Built With
+
+- **Roblox Studio** — Game development
+- **Luau** — Game scripting
+- **NASA Open Resources** — Scientific research and educational inspiration
+- **GitHub** — Project documentation and version control
+
+## 📂 Project Files
+
+| File | Description |
+|---|---|
+| `SADEEM_GAME.rbxl` | Roblox Studio game project |
+| `README.md` | Project overview |
+| `PRD.md` | Product requirements |
+| `NASA_DATA_AND_SOURCES.md` | NASA data documentation |
+| `SADEEM_Cover.png` | Official game cover |
+
+## 🚀 Play the Game
+
+**[🎮 PLAY SADEEM ON ROBLOX](https://www.roblox.com/share?code=3885c530b095d745808a4fd2af8d81a3&type=ExperienceDetails&stamp=1794626377726)**
+
+---
+
+### ✨ Explore. Decide. Survive.
+
+*Built with curiosity, creativity, and a passion for space.*
+
+**Made by Team SADEEM 🇸🇦 — NASA Space Apps Challenge 2026**
