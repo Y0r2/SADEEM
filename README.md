@@ -24,7 +24,7 @@ Teach engineering trade-offs through consequences: power diverted to research ma
 
 ## Technology
 - Roblox Studio and Luau; Roblox assets and custom visual assets where permitted.
-- NASA public scientific resources are referenced in the design. **Live API integration is not yet verified.**
+- NASA public scientific resources are referenced in the design. 
 
 ## How to run
 1. Install Roblox Studio and sign in.
