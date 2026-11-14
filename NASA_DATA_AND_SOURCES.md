@@ -19,7 +19,7 @@ This document lists the NASA resources that inspired SADEEM's mechanics, how eac
 | Mars Trek | https://trek.nasa.gov/mars/ | Mars terrain and landing/site information | Archived | Planned |
 | Lunar Reconnaissance Orbiter (LRO) / LOLA | https://trek.nasa.gov/moon/ | Lunar terrain and site choice | Archived | Planned |
 | NASA Open Science Data Repository (OSDR) / RadLab | https://osdr.nasa.gov/ | Radiation and health education, with correct units and context | Archived | Planned |
-| CSA food production toolkit | *(add exact link)* | Greenhouse trade-off educational material | Partner resource, **not NASA data** | Planned |
+
 
 ## Labeling rules
 1. Every NASA-derived fact shown in-game must name its source (and mission/date where relevant).
