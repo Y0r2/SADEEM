@@ -5,7 +5,7 @@
 **Challenge: Build a Junior Astronaut Mission Trainer**  
 **Team SADEEM 🇸🇦 | Saudi Arabia**
 
-![SADEEM Cover](SADEEM_Cover.png)
+![SADEEM Cover](https://github.com/Y0r2/SADEEM/issues/1)
   
 
 ---
