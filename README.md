@@ -28,7 +28,7 @@ With the help of **NAJM**, their robotic companion, players must explore the out
 *One mission. Three messages. A mystery waiting to be solved.*
 
 <div align="center">
-  <img src="PASTE_GIF_URL_HERE" width="100%" alt="SADEEM Gameplay">
+  <img src="//github.com/Y0r2/SADEEM/issues/2#issue-6396554819" width="100%" alt="SADEEM Gameplay">
 </div>
 
 
