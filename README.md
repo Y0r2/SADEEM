@@ -10,7 +10,7 @@
 <img src="https://github.com/user-attachments/assets/d6ba044f-1594-439e-b400-d35e7d83fa35" width="100%" alt="SADEEM Cover">
 </div>
 
-## 🎮 Play & Explore
+## 🎮 Play and Explore
 
 **[🚀 Play on Roblox](https://www.roblox.com/share?code=3885c530b095d745808a4fd2af8d81a3&type=ExperienceDetails&stamp=1794626377726)** | **[▶️ Watch Gameplay Tutorial](https://drive.google.com/file/d/10Q9k4hGPSWA5gFlpsGSa2JJPr00rSiUq/view?usp=sharing)**
 
