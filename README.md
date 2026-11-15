@@ -42,7 +42,7 @@ With the help of **NAJM**, their robotic companion, players must explore the out
 Watch our one-minute gameplay tutorial to explore
 Outpost 72, meet NAJM, and discover how to play.
 
-[▶️ Watch the Gameplay Tutorial](https://docs.google.com/videos/d/1O_e6cieB-2IdvMvsH7095ySz_TtKJensbN6cfISGgfU/play?usp=sharing)
+[▶️ Watch the Gameplay Tutorial](https://drive.google.com/file/d/10Q9k4hGPSWA5gFlpsGSa2JJPr00rSiUq/view?usp=sharing)
 
 
 
