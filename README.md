@@ -24,10 +24,10 @@ With the help of **NAJM**, their robotic companion, players must explore the out
 **Every decision matters. Every resource counts.**
 ### 🎮 How to Run It
 
-1. Download **`SADEEM_GAME.rbxl`** from this repository.
-2. Install and open **Roblox Studio**.
-3. Go to **File → Open from File** and select `SADEEM_GAME.rbxl`.
-4. Click **Play (F5)** to start the game.
+1. **[⬇️ Download SADEEM_GAME.rbxl](https://github.com/Y0r2/SADEEM/raw/refs/heads/main/SADEEM_GAME.rbxl)**
+2. Open **Roblox Studio**.
+3. Go to **File → Open from File** and select the downloaded file.
+4. Click **Play (F5)** to start!
 
 ## 🎮 Gameplay Preview
 
