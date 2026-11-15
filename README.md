@@ -85,9 +85,10 @@ SADEEM uses NASA's publicly available educational and scientific resources as re
 
 | File | Description |
 |---|---|
-| [📊 Pitch Deck](docs/SADEEM_Pitch_Deck.pdf) | Project presentation |
-| [🎮 Level Design](docs/SADEEM_Level_Design.pdf) | Level and puzzle planning |
-| [🎬 Game Demo](https://docs.google.com/videos/d/1O_e6cieB-2IdvMvsH7095ySz_TtKJensbN6cfISGgfU/play?usp=sharing) | Gameplay video |
+| [📊 Pitch Deck](https://github.com/Y0r2/SADEEM/blob/main/docs/SADEEM_Pitch_Deck.pdf) | Project presentation |
+| [🎮 Level Design](https://github.com/Y0r2/SADEEM/blob/main/docs/SADEEM_Level_Design.pdf) | Level and puzzle planning |
+| [🎬 Game Demo](https://drive.google.com/file/d/10Q9k4hGPSWA5gFlpsGSa2JJPr00rSiUq/view?usp=sharing) | Gameplay video |
+
 
 ---
 
