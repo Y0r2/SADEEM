@@ -22,6 +22,12 @@ A Saudi astronaut crew arrives at Outpost 72 to investigate a mysterious transmi
 With the help of **NAJM**, their robotic companion, players must explore the outpost, restore essential systems, uncover three hidden messages, and solve the final mystery.
 
 **Every decision matters. Every resource counts.**
+### 🎮 How to Run It
+
+1. Download **`SADEEM_GAME.rbxl`** from this repository.
+2. Install and open **Roblox Studio**.
+3. Go to **File → Open from File** and select `SADEEM_GAME.rbxl`.
+4. Click **Play (F5)** to start the game.
 
 ## 🎮 Gameplay Preview
 
