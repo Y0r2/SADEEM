@@ -31,6 +31,13 @@ With the help of **NAJM**, their robotic companion, players must explore the out
   <img src="https://github.com/user-attachments/assets/ef0901fb-c5b4-473b-99f8-6401d402dca8" width="100%" alt="SADEEM Gameplay GIF">
 </div>
 
+## 🎬 Gameplay Tutorial
+
+Watch our one-minute gameplay tutorial to explore
+Outpost 72, meet NAJM, and discover how to play.
+
+[▶️ Watch the Gameplay Tutorial](https://docs.google.com/videos/d/1O_e6cieB-2IdvMvsH7095ySz_TtKJensbN6cfISGgfU/play?usp=sharing)
+
 
 
 > 🎥 Watch the crew explore Outpost 72, interact with NAJM, and discover the secrets hidden inside the station.
