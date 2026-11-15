@@ -112,6 +112,9 @@ SADEEM draws inspiration from NASA's publicly available educational and scientif
 **[🎮 PLAY SADEEM ON ROBLOX](https://www.roblox.com/share?code=3885c530b095d745808a4fd2af8d81a3&type=ExperienceDetails&stamp=1794626377726)**
 
 ---
+### Roblox Age Restriction Notice
+
+SADEEM targets ages 7–12, but Roblox currently limits access to 16+ due to publishing requirements, not game content. Access for younger players requires additional review or a refundable 1,000 Robux fee.
 
 ### ✨ Explore. Decide. Survive.
 
